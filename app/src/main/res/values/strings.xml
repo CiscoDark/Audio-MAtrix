@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AudioMatrix</string>
+    <string name="subtitle_console">Per-App Audio Routing &amp; Dual Bluetooth DSP Engine</string>
+    <string name="tab_outputs">Outputs &amp; Split</string>
+    <string name="tab_apps">App Routing</string>
+    <string name="tab_diagnostics">DSP &amp; Shizuku</string>
+    <string name="status_shizuku_ready">Shizuku Privileged</string>
+    <string name="status_shizuku_fallback">Simulated / Fallback</string>
+    <string name="status_engine_active">PCM Router Active</string>
+    <string name="status_engine_idle">Router Standby</string>
+    <string name="action_start_engine">Start Audio Matrix</string>
+    <string name="action_stop_engine">Stop Audio Matrix</string>
+    <string name="action_request_shizuku">Bind Shizuku</string>
+    <string name="action_refresh_devices">Rescan Hardware</string>
+    <string name="dual_bt_share_title">Dual Bluetooth A2DP Broadcast</string>
+    <string name="dual_bt_share_subtitle">Stream synchronized 44.1kHz stereo PCM to two Bluetooth sinks with independent gain &amp; channel split</string>
+    <string name="focus_lock_label">Lock Audio Focus (TAKE_AUDIO_FOCUS ignore)</string>
+    <string name="channel_mode_stereo">STEREO (L+R)</string>
+    <string name="channel_mode_left">LEFT ONLY</string>
+    <string name="channel_mode_right">RIGHT ONLY</string>
+    <string name="notification_channel_name">AudioMatrix DSP Routing Service</string>
+    <string name="notification_title">AudioMatrix Engine Active</string>
+    <string name="notification_content">Routing per-app PCM streams across connected hardware outputs</string>
+</resources>

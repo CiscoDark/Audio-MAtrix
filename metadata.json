@@ -1,0 +1,6 @@
+{
+  "name": "AudioMatrix",
+  "description": "Per-app audio routing, Dual Bluetooth share mode, Shizuku audio focus lock, and real-time L/R stereo channel splitter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
